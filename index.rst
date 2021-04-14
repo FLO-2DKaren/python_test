@@ -10,8 +10,11 @@ Welcome to Test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   usage/installation
-   usage/quickstart
+   Introduction
+   Installation
+   Setup a Project
+   Build a Computational Domain
+   Create a Grid
 
 
 Indices and tables

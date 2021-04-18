@@ -1,5 +1,5 @@
-Sample Elevation Data from Points and LiDAR
-===========================================
+Sample Elevation Data from Points
+=================================
 
 1. Adjust the Style properties of the elevation data to assist the
    quality control measures for reviewing the data. For example,

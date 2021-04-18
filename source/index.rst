@@ -15,6 +15,7 @@ Welcome to Test's documentation!
    Setup a Project
    Build a Computational Domain
    Create a Grid
+   Sample Elevation from Raster
 
 
 Indices and tables

@@ -1,9 +1,15 @@
 Create a Grid
 =============
 
-1. The first step in creating a FLO-2D grid system is to create the
-   *Computational Domain*. The first method is to copy the polygon from
-   any polygon layer.
+Method 1 From an External Layer
+-------------------------------
+
+1. In order to create a grid, a domain layer must be available.  If a domain layer is not available use this tutorial:
+   :ref:`Build a Computational Domain`
+
+2. Click the Create Grid Button
+
+.. image:: img/creategrid10.png
 
 2. Select external polygon layer.
 

@@ -16,6 +16,7 @@ Welcome to Test's documentation!
    Build a Computational Domain
    Create a Grid
    Sample Elevation from Raster
+   Sample Elevation from Points
 
 
 Indices and tables
